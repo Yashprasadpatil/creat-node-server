@@ -1,0 +1,16 @@
+{
+  "name": "sharperner-nodejs",
+  "version": "1.0.0",
+  "description": "learn nodejf from sharperner ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon task8.js",
+    "start-server": "node task8.js"
+  },
+  "author": "yash",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
